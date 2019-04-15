@@ -1,11 +1,7 @@
 ## Code your solution below. Note that your SQL queries should be in quotation marks. 
 
 def highest_student_gpa
-<<<<<<< HEAD
   "SELECT MAX(gpa) AS highest_gpa FROM students;"
-=======
-  SELECT MAX(gpa) as highest_gpa FROM students;
->>>>>>> 0291ccf36178a354bea71fbf0c6cf9a8e22da347
 end
 
 def lowest_student_gpa
